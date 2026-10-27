@@ -1,0 +1,8 @@
+{"ts":1793059200000,"run":"synthetic-w-heads-push-3","layer":"L0","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-0","n":0}
+{"ts":1793059201000,"run":"synthetic-w-heads-push-3","layer":"L1","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-1","n":1}
+{"ts":1793059202000,"run":"synthetic-w-heads-push-3","layer":"L2","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-2","n":2}
+{"ts":1793059203000,"run":"synthetic-w-heads-push-3","layer":"L3","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-3","n":3}
+{"ts":1793059204000,"run":"synthetic-w-heads-push-3","layer":"L4","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-4","n":4}
+{"ts":1793059205000,"run":"synthetic-w-heads-push-3","layer":"L5","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-5","n":5}
+{"ts":1793059206000,"run":"synthetic-w-heads-push-3","layer":"L0","event":"synthetic.event","card":0,"dispatch":"synthetic-w-heads-push-3-6","n":6}
+{"ts":1793059207000,"run":"synthetic-w-heads-push-3","layer":"L5","event":"synthetic.pad","card":0,"dispatch":"synthetic-w-heads-push-3-7","pad":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
