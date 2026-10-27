@@ -1,0 +1,7 @@
+{"ts":1793059200000,"run":"synthetic-s-rigger-api-real-2","layer":"L0","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-0","n":0}
+{"ts":1793059201000,"run":"synthetic-s-rigger-api-real-2","layer":"L1","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-1","n":1}
+{"ts":1793059202000,"run":"synthetic-s-rigger-api-real-2","layer":"L2","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-2","n":2}
+{"ts":1793059203000,"run":"synthetic-s-rigger-api-real-2","layer":"L3","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-3","n":3}
+{"ts":1793059204000,"run":"synthetic-s-rigger-api-real-2","layer":"L4","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-4","n":4}
+{"ts":1793059205000,"run":"synthetic-s-rigger-api-real-2","layer":"L5","event":"synthetic.event","card":0,"dispatch":"synthetic-s-rigger-api-real-2-5","n":5}
+{"ts":1793059206000,"run":"synthetic-s-rigger-api-real-2","layer":"L5","event":"synthetic.pad","card":0,"dispatch":"synthetic-s-rigger-api-real-2-6","pad":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
