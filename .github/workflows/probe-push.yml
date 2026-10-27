@@ -1,0 +1,8 @@
+# ABOUTME: Probe workflow for rigger spike 1018: runs on every push to any branch or tag, and prints what fired it.
+name: probe-push
+on: push
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "event=$GITHUB_EVENT_NAME ref=$GITHUB_REF sha=$GITHUB_SHA"
